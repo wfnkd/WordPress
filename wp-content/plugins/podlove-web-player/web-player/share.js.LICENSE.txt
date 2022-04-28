@@ -1,0 +1,3 @@
+/*! @license DOMPurify | (c) Cure53 and other contributors | Released under the Apache license 2.0 and Mozilla Public License 2.0 | github.com/cure53/DOMPurify/blob/2.0.8/LICENSE */
+
+/*! creation: 2022-04-03T09:00:16.706Z revision: 02f7a6e05a3d2391f8695b4fd7c850aa26bb8997 name: @podlove/web-player version: 5.9.0 */
